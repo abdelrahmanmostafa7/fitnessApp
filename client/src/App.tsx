@@ -29,7 +29,7 @@ function App() {
 
       <Header setSelectedPage={setSelectedPage}/>
 
-      <Benefits />
+      <Benefits setSelectedPage={setSelectedPage} />
     </div>
   )
 }
