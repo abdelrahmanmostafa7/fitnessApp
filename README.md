@@ -2,6 +2,8 @@
 
 This is a modern, responsive gym fitness application built with React, TypeScript, and TailwindCSS. The app provides an interactive user interface for showcasing gym services, classes, and contact forms, making it easy for users to explore and engage with the gym's offerings.
 
+ --**Live Demo** :https://fitness-app-two-pink.vercel.app/
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout using TailwindCSS, ensuring compatibility across devices.
